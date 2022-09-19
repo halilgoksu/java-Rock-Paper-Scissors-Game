@@ -1,5 +1,5 @@
-# java-Rock-Paper-Scissors-Game
-#Enum, Inheritance, Java OOP
+# java-Rock-Paper-Scissors-Game-
+#Enum, Inheritance, Java OOP 
 
 //Design and implement an application that plays the Rock Paper Scissors game against the computer
 //The program should randomly choose one of the three options,then prompt the user's selection.
